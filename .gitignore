@@ -1,0 +1,5 @@
+artifacts/
+tests/runtime/
+*.pdb
+__pycache__/
+/EdgeDirect.previous-*.exe
